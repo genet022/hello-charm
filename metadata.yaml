@@ -1,0 +1,6 @@
+name: hello-charm
+summary: A hello world example using the new OO operator framework
+maintainers:
+  - Josh Genet
+description: |
+  A hello world example using the new OO operator framework
